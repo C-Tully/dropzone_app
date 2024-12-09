@@ -1,3 +1,7 @@
+# Dropzone_app
+This project was created as a testing ground as I worked through a React component. The goal was to better understand the React framework and how it functioned.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
